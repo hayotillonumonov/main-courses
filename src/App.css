@@ -1,3 +1,7 @@
 .main-courses {
-    background: rgba(60, 178, 127, 0.05);
+  background: radial-gradient(
+    circle,
+    rgba(60, 178, 127, 0.1) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
 }
