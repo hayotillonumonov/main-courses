@@ -1,0 +1,27 @@
+.courses-items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.courses-items div {
+  width: 278px;
+  height: 285px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.courses-items img {
+  width: 50%;
+  height: 50%;
+}
+
+.courses-items p {
+  padding-top: 15px;
+  font-size: 20px;
+  font-family: Poppins;
+}
